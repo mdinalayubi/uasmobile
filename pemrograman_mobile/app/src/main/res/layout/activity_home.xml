@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="0dp"
+    android:layout_marginEnd="0dp"
+    android:background="@color/black"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    tools:context=".MainLauncherSplashLogo">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/arrasynet_logo_transparant_2"
+            android:layout_width="match_parent"
+            android:layout_height="304dp"
+            android:adjustViewBounds="true"
+            android:padding="50dp"
+            android:src="@drawable/ay2" />
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:rowCount="1"
+            android:columnCount="3"
+            android:alignmentMode="alignMargins"
+            android:columnOrderPreserved="false">
+            <androidx.cardview.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="5dp"
+                app:cardCornerRadius="5dp"
+                app:cardUseCompatPadding="true">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal"
+                    android:background="@color/white"
+                    android:padding="10dp">
+
+                    <Button
+                        android:id="@+id/btnHello"
+                        android:layout_width="85dp"
+                        android:layout_height="85dp"
+                        android:backgroundTint="@color/white"
+                        android:text="@string/button_label_pro_hello_toast"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/padding_reguler"
+                        android:textStyle="bold"
+                        tools:ignore="TextSizeCheck" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="5dp"
+                app:cardCornerRadius="5dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardUseCompatPadding="true">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal"
+                    android:background="@color/white"
+                    android:padding="10dp">
+
+                    <Button
+                        android:id="@+id/btnCount"
+                        android:layout_width="85dp"
+                        android:layout_height="85dp"
+                        android:backgroundTint="@color/white"
+                        android:text="@string/button_label_pro_count"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/padding_reguler"
+                        android:textStyle="bold"
+                        tools:ignore="TextSizeCheck" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="5dp"
+                app:cardCornerRadius="5dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardUseCompatPadding="true">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal"
+                    android:background="@color/white"
+                    android:padding="10dp">
+
+                    <Button
+                        android:id="@+id/btnSianida"
+                        android:layout_width="85dp"
+                        android:layout_height="85dp"
+                        android:backgroundTint="@color/white"
+                        android:text="@string/button_label_pro_sianida"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/padding_reguler"
+                        android:textStyle="bold"
+                        tools:ignore="TextSizeCheck" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="5dp"
+                app:cardCornerRadius="5dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardUseCompatPadding="true">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal"
+                    android:background="@color/white"
+                    android:padding="10dp">
+
+                    <Button
+                        android:id="@+id/btnTwoActivity"
+                        android:layout_width="85dp"
+                        android:layout_height="85dp"
+                        android:backgroundTint="@color/white"
+                        android:text="@string/button_label_pro_two_activity"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/padding_reguler"
+                        android:textStyle="bold"
+                        tools:ignore="TextSizeCheck" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="5dp"
+                app:cardCornerRadius="5dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardUseCompatPadding="true">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal"
+                    android:background="@color/white"
+                    android:padding="10dp">
+
+                    <Button
+                        android:id="@+id/btnAlarm"
+                        android:layout_width="85dp"
+                        android:layout_height="85dp"
+                        android:backgroundTint="@color/white"
+                        android:onClick="createAlarm"
+                        android:text="@string/SetAlarm"
+                        android:textColor="@color/black"
+                        android:textSize="10dp"
+                        android:textStyle="bold"
+                        tools:ignore="SpUsage,TextSizeCheck" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="5dp"
+                app:cardCornerRadius="5dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardUseCompatPadding="true">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal"
+                    android:background="@color/white"
+                    android:padding="10dp">
+
+                    <Button
+                        android:id="@+id/btnMaps"
+                        android:layout_width="85dp"
+                        android:layout_height="85dp"
+                        android:backgroundTint="@color/white"
+                        android:text="@string/button_label_pro_maps"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/padding_reguler"
+                        android:textStyle="bold"
+                        tools:ignore="TextSizeCheck" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="5dp"
+                app:cardCornerRadius="5dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardUseCompatPadding="true">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal"
+                    android:background="@color/white"
+                    android:padding="10dp">
+
+                    <Button
+                        android:id="@+id/btnFragment"
+                        android:layout_width="wrap_content"
+                        android:layout_height="85dp"
+                        android:backgroundTint="@color/white"
+                        android:text="@string/button_label_pro_fragment"
+                        android:textColor="@color/black"
+                        android:textSize="10dp"
+                        android:textStyle="bold"
+                        tools:ignore="TextSizeCheck" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+        </GridLayout>
+    </LinearLayout>
+
+</ScrollView>
