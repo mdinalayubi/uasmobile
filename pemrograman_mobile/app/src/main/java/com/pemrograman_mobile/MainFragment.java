@@ -21,7 +21,7 @@ public class MainFragment extends AppCompatActivity {
         frameLayout = (FrameLayout) findViewById(R.id.framelayout);
         tabLayout = (TabLayout) findViewById(R.id.tablayout);
 
-        getSupportFragmentManager().beginTransaction().replace(R.id.framelayout, new WifiFragment())
+        getSupportFragmentManager().beginTransaction().replace(R.id.framelayout, new capres2())
                 .addToBackStack(null)
                 .commit();
 
@@ -31,13 +31,13 @@ public class MainFragment extends AppCompatActivity {
                 Fragment fragment = null;
                 switch (tab.getPosition()){
                     case 0:
-                        fragment = new WifiFragment();
+                        fragment = new capres1();
                         break;
                     case 1:
-                        fragment = new CctvFragment();
+                        fragment = new capres2();
                         break;
                     case 2:
-                        fragment = new PcFragment();
+                        fragment = new capres3();
                         break;
                 }
 

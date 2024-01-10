@@ -30,7 +30,4 @@ public class MainLauncherSplashLogo extends AppCompatActivity {
             }
         }, 2000); // Ubah delayMillis menjadi 2000
     }
-
-    public void createAlarm(View view) {
-    }
 }

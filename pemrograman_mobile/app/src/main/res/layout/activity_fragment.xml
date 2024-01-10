@@ -19,21 +19,21 @@
             android:id="@+id/action"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Laptop Acer"
+            android:text="Vivo"
             />
 
         <com.google.android.material.tabs.TabItem
             android:id="@+id/comedy"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Laptop Asus"
+            android:text="Prabowo Gibran"
             />
 
         <com.google.android.material.tabs.TabItem
             android:id="@+id/romance"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="PC/Laptop"
+            android:text="Gunung Rinjani"
             />
 
 
@@ -43,8 +43,5 @@
         android:id="@+id/framelayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
-
-
-
 
 </LinearLayout>

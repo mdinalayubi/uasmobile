@@ -15,4 +15,8 @@
     <color name="light_blue_500">#03a9f4</color>
     <color name="black_doff">#040303</color>
     <color name="black_button_image">#B0A695</color>
+    <color name="warnaBaru">#B0A3D4</color>
+    <color name="warnaSecond">#CEBACF</color>
+    <color name="warnaTiga">#7D80DA</color>
+    <color name="janda">#FA00FF</color>
 </resources>

@@ -9,9 +9,6 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.pemrograman_mobile.MainSecondActivity;
-import com.pemrograman_mobile.R;
-
 public class MainFirstActivity extends AppCompatActivity {
     private static final String LOG_TAG = MainFirstActivity.class.getSimpleName();
     public static final String EXTRA_MESSAGE = "com.example.android.hellotoast.extra.MESSAGE";

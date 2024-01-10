@@ -36,6 +36,5 @@ public class MainMaps extends FragmentActivity implements OnMapReadyCallback {
         Intent intent = new Intent(android.content.Intent.ACTION_VIEW, Uri.parse(uri));
         intent.setClassName("com.google.android.apps.maps", "com.google.android.maps.MapsActivity");
         startActivity(intent);
-
     }
 }

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">mdinalayubi IT</string>
+    <string name="app_name">mdinalayubi</string>
     <string name="halo">Bagaimana Kabar Anda Hari Ini!</string>
     <string name="button_label_input">Bilangan Fibonacci</string>
     <string name="button_label_pro_hello_toast">Hello Toast</string>
@@ -25,45 +25,12 @@
     <string name="button_label_finish">Reset</string>
     <string name="button_label_editText_max">Maximum Fibonacci</string>
     <string name="enter_fibonacci_limit">Masukan nilai maksimal</string>
-    <string name="Asus">Model :
-    X415EA
-    Color :
-    Transparent Silver
-        Slate Grey
-    Operating System :
-        Windows 11 Home - ASUS recommends Windows 11 Pro for business
-    Processor :
-        Intel® Core™ i7-1165G7 Processor 2.8 GHz (12M Cache, up to 4.7 GHz, 4 cores)
-    Graphics :
-        Intel Iris Xᵉ Graphics Intel Iris Xᵉ Graphics is only available in models with Intel® Core™ i5/i7/i9 processors and dual-channel memory.
-    Display :
-        14.0-inch, HD (1366 x 768) 16:9 aspect ratio, LED Backlit, 60Hz refresh rate, 200nits, 45% NTSC color gamut, Anti-glare display, Non-touch screen, (Screen-to-body ratio)82%
-    Memory :
-        8GB DDR4 on board
-        Max Total system memory up to:16GB
-        8GB DDR4 on board
-        8GB DDR4 SO-DIMM
-        Max Total system memory up to:16GB
-    Storage :
-        512GB M.2 NVMe™ PCIe® 3.0 SSD
-        128GB M.2 NVMe™ PCIe® 3.0 SSD
-        1TB SATA 5400RPM 2.5" HDD, 128GB M.2 NVMe™ PCIe® 3.0 SSD</string>
-    <string name="Acer">Triton 16 dengan DLSS 3 yang ramping berona perak adalah laptop gaming tipis yang ditempa dengan sebuah tujuan: menangani semua aktivitas multitugas, menyajikan performa terdepan, dan mendukung kreativitas Anda setiap saat.
-    LEBIH DARI SEKADAR LAPTOP
-Terbungkus dalam chassis ;ogam mewah5, temukan perlengkapan game terbaik: hingga prosesor Intel® Core™ i9 Generasi ke-131 dengan arsitektur hybrid core inovatif
-WINDOWS 11 HOME
-Sistem Operasi
-Hingga
-Prosesor Intel® Core™
-GENERASI KE-131
-Hingga NVIDIA®
-GEFORCE RTX™ 4070
-GPU Laptop1
-Hingga
-32 GB DDR5
-5200 MHz</string>
+
+
     <string name="article_title">Kasus Sianida</string>
     <string name="article_subtitle">ICE COLD</string>
+
+
 
     <string name="article_text">In a vault deep inside Abbey Road Studios in London — protected by an unmarked, triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the Let It Be album. The best of the best were released by Apple Records in the form of the 3-volume Anthology series. For more information, see the Beatles Time Capsule at www.rockument.com. \n\n This volume starts with the first new Beatle song, “Free as a Bird” (based on a John Lennon demo, found only on The Lost Lennon Tapes Vol. 28, and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from early concerts and BBC Radio sessions. \n\n
 
@@ -83,25 +50,32 @@ Leave My Kitten Alone — One of the lost Beatle songs recorded during the “Be
 
 One After 909 — A song recorded for the ¨C11C album was actually worked on way back in the beginning, six years earlier. This take shows how they did it much more slowly, with an R B feel to it.</string>
 
-    <string name="wifi">Jasa Pemasangan, Pemeliharaan, Perbaikan Akses WiFi
-Pemasangan baru per titik + penarikan kabel 125.000 (diluar harga alat &amp; Bahan)
-Pemasangan baru per titik tanpa penarikan kabel Rp. 50.000.- (diluar harga alat &amp; bahan)
-Perbaikan atau Pemeliharaan per titik Rp. 25.000 (reset ulang, ganti password, dll)</string>
+    <string name="capres3">Gunung Rinjani
 
-    <string name="cctv">JASA PEMASANGAN CCTV
-DAERAH JABODETABEKAR
-Tersedia juga penjualan dan jasa pasang produk security system yang lainnya seperti Access Control, Alarm Instrution, Smart Lock dan lain-lain.</string>
+        adalah gunung yang berlokasi di Pulau Lombok, Nusa Tenggara Barat.
 
-    <string name="pc_laptop">Halo sobat eksekutif, untuk kamu yang lagi mencari” jasa service Laptop”. Eksekutif Computer memberikan jasa reparasi atau service Laptop kalian dengan bermacam keluhkesah kerusakan. Tenaga teknisi handal serta profesional kita sedia menolong seluruh keluhkesah dari kerusakan fitur komputer tenteng atau notebook Kamu. Apakah kamu telah service di tempat lain tetapi masih terdapat hambatan rusak lagi dengan keluhkesah yang serupa? Di Eksekutif Computer hendak meminimalkan kerusakan kembali laptop Kamu sebab kita melaksanakan pemeriksaan serta koreksi dengan cermat serta hati- hati sesuai SOP yang berlaku buat memperoleh hasil yang maksimum, pastinya itu buat kebahagiaan Customer kita sendiri.
+        Gunung yang merupakan gunung berapi kedua tertinggi di Indonesia dengan ketinggian 3.726 mdpl serta terletak pada lintang 8º25 LS dan 116º28 BT
+
+        ini merupakan gunung favorit bagi pendaki Indonesia karena keindahan pemandangannya. Gunung ini merupakan bagian dari Taman Nasional Gunung Rinjani
+
+        yang memiliki luas sekitar 41.330 ha dan ini akan diusulkan penambahannya sehingga menjadi 76.000 ha ke arah barat dan timur.Gunung Rinjani adalah gunung yang berlokasi di Pulau Lombok, Nusa Tenggara Barat.
+
+        Gunung yang merupakan gunung berapi kedua tertinggi di Indonesia dengan ketinggian 3.726 mdpl serta terletak pada lintang 8º25 LS dan 116º28 BT ini merupakan gunung favorit bagi pendaki Indonesia karena keindahan pemandangannya.
+
+        Gunung ini merupakan bagian dari Taman Nasional Gunung Rinjani yang memiliki luas sekitar 41.330 ha dan ini akan diusulkan penambahannya sehingga menjadi 76.000 ha ke arah barat dan timur.</string>
+
+    <string name="capres1">Di Indonesia, harga Vivo V29e 5G dibanderol Rp 4,4 juta. Hanya ada satu varian memori dan media penyimpanan (storage) untuk Vivo V29e 5G, yakni 8/256 GB. Spesifikasi Vivo V29e 5G yang diunggulkan adalah sektor fotografi, yang mencakup kamera utama 64 MP (f/1.79, OIS) dan kamera ultra wide 8 MP (f/2.2). Kedua kamera ini dimuat dalam modul persegi panjang bersama dengan sebuah lampu LED flash. Modul kamera belakang juga sudah dilengkapi fitur unggulan berupa cincin cahaya berteknologi Aura Light Portrait with Smart Light Control</string>
+
+    <string name="capres2">
+Visi
+Bersama Indonesia Maju Menuju Indonesia Emas 2045
+
+Misi:
+
+1. Memperkokoh ideologi pancasila, demokrasi, dan Hak Asasi Manusia (HAM);
+2. Memantapkan sistem pertahanan keamanan negara dan mendorong kemandirian bangsa melalui swasembada pangan, energi, air, ekonomi kreatif, ekonomi hijau, dan ekonomi biru;
+3. Meningkatkan lapangan kerja yang berkualitas, mendorong kewirausahaan, mengembangkan industri kreatif, dan melanjutkan pengembangan infrastruktur;
 
 
-
-Jaminan Garansi hendak kita bagikan buat tiap layanan service atau reparasi laptop, pastinya dengan ketentuan serta syarat yang berlaku. Disini pula menerima reparasi laptop dengan bermacam merk, semacam Asus, DELL, Lenovo, Acer, HP, Axioo, Toshiba, Zyrex dan lain- lain. Eksekutif Computer telah profesional di aspek pelayanan service serta reparasi. Dan sudah banyak yang telah jadi klien loyal Eksekutif Computer.
-
-
-
-Yang kita tawarkan tidak terbatas pada jumlah jumlah ataupun tingkatan kesulitannya. Berapapun jumlah unitnya, apapun permasalahannya kita bakal senantiasa melayani sepenuh hati. Ruang lingkup yang kita layani merupakan Service Laptop Hardware serta Software, dan service yang bisa dituntaskan di tempat.</string>
-    <string name="set_alarm">Set Alarm</string>
-    <string name="setalarm">SetAlarm</string>
-    <string name="SetAlarm">Set Alarm</string>
+</string>
 </resources>

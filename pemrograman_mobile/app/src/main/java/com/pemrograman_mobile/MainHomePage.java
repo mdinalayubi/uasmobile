@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.provider.AlarmClock;
 import android.view.View;
 import android.widget.Button;
-import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -93,7 +92,6 @@ public class MainHomePage extends AppCompatActivity {
         alarmDays.add(2);
         alarmDays.add(3);
         alarmDays.add(4);
-
         Intent intent = new Intent(AlarmClock.ACTION_SET_ALARM)
                 .putExtra(AlarmClock.EXTRA_DAYS, alarmDays)
                 .putExtra(AlarmClock.EXTRA_MESSAGE, "Testing")
@@ -101,13 +99,9 @@ public class MainHomePage extends AppCompatActivity {
                 .putExtra(AlarmClock.EXTRA_MINUTES, 30)
                 .putExtra(AlarmClock.EXTRA_VIBRATE, false)
                 .putExtra(AlarmClock.EXTRA_RINGTONE, "VALUE_RINGTONE_SILENT");
-
         if (intent.resolveActivity(getPackageManager()) != null) {
             startActivity(intent);
-        } else {
-            Toast.makeText(this, "Tidak ada aplikasi alarm yang tersedia.", Toast.LENGTH_SHORT).show();
         }
     }
-
 
 }
