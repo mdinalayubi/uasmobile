@@ -5,7 +5,7 @@
 | Tugas   | UAS Pemrograman Mobile        |
 
 # Luncher
-![mp4](https://github.com/mdinalayubi/uasmobile/blob/main/img/launcher.mp4)
+https://github.com/mdinalayubi/uasmobile/assets/115516424/caae3346-1ec4-44ab-b1fe-d207d655ff9e
 # Home
 ![jpg](https://github.com/mdinalayubi/uasmobile/blob/main/img/Home.jpg)
 # Hello Toast
